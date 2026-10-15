@@ -1,0 +1,6 @@
+{
+  "name": "PowerPoint Web Editor",
+  "description": "A full-featured office presentation editor with ribbon interface, PPTX/POTX/PPTM/PDF import/export, Google Drive synchronization, macro scripting automation, and real-time collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
